@@ -1,4 +1,4 @@
-# papa-jahaziel
+# repositorio de prueba
 mi primera vez en git-hub
 
 ## descripcion
